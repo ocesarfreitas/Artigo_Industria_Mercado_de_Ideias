@@ -10,4 +10,7 @@ Nesse trabalho, retomamos a discussão teórica e conceitual da desindustrializa
 -----
 Caso tenha interesse pelo tema do artigo, ele está disponível no site da <a href="http://ecodagraduacao.com.br/index.php/ecodagraduacao/article/view/114">Revista O Eco da Graduação</a>.
 
-Quaisquer eventuais dúvidas ou questionamentos tanto teóricos quando de software, você pode entrar em contato conosco pelo nossos e-mails disponibilizados em nossos perfis aqui no GitHub.
+Quaisquer eventuais dúvidas ou questionamentos tanto teóricos quando de software, você pode entrar em contato conosco pelo nossos e-mails:
+[![Gmail Badge](https://img.shields.io/badge/-cesarfreitasalbuquerque@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cesarfreitasalbuquerque@gmail.com)](mailto:cesarfreitasalbuquerque@gmail.com)
+
+[![Gmail Badge](https://img.shields.io/badge/-izabelflores9@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:izabelflores9@gmail.com)](mailto:izabelflores9@gmail.com)
